@@ -1,6 +1,6 @@
 {
   "name": "timer-logger",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "main": "dist/timer.js",
   "types": "dist/timer.d.ts",
   "description": "",
