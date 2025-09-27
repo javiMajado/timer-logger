@@ -1,0 +1,13 @@
+# Dependencias de Node
+/node_modules
+
+# Archivos de distribución/compilación
+/dist
+/build
+
+# Archivos de Logs
+npm-debug.log
+*.log
+
+# Archivos del sistema
+.DS_Store

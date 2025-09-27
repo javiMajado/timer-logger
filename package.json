@@ -1,0 +1,27 @@
+{
+  "name": "timer-logger",
+  "version": "1.0.6",
+  "main": "dist/timer.js",
+  "types": "dist/timer.d.ts",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "timing",
+    "performance",
+    "decorator",
+    "typescript",
+    "logger",
+    "execution time",
+    "cli"
+  ],
+  "author": "Javier Fernández Majado",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^24.5.2",
+    "typescript": "^5.9.2"
+  }
+}
